@@ -25,7 +25,7 @@ namespace consoleApp
       foreach (var item in restResponse.Data)
       {
         string name = Regex.Replace(item.Name, "[^a-zA-Z0-9_.]+", "-", RegexOptions.Compiled); ;
-        string target = $"/Users/cagritumer/Desktop/{item.Id}{name}.xlsx";
+        string target = $"/Users/userName/Desktop/{item.Id}{name}.xlsx";
 
         RestClient restClientRecords = new RestClient("apiUrl");
 
