@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MlsFAJyWHXmpW7Hgi+/eUvpY0KCK+CSszWdr4ceP017o+Ant4BNfoaIPy2bXlMMc5BDY4bA/0rS7xQTOlRBWow==",
+  "success": true,
+  "projectFilePath": "/Users/cagritumer/Projects/downloader/downloader/downloader.csproj",
+  "expectedPackageFiles": [
+    "/Users/cagritumer/.nuget/packages/restsharp/108.0.1/restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

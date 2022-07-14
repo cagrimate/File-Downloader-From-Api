@@ -1,0 +1,17 @@
+/Users/cagritumer/Projects/downloader/downloader/obj/Debug/net6.0/downloader.csproj.AssemblyReference.cache
+/Users/cagritumer/Projects/downloader/downloader/obj/Debug/net6.0/downloader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagritumer/Projects/downloader/downloader/obj/Debug/net6.0/downloader.AssemblyInfoInputs.cache
+/Users/cagritumer/Projects/downloader/downloader/obj/Debug/net6.0/downloader.AssemblyInfo.cs
+/Users/cagritumer/Projects/downloader/downloader/obj/Debug/net6.0/downloader.csproj.CoreCompileInputs.cache
+/Users/cagritumer/Projects/downloader/downloader/bin/Debug/net6.0/downloader
+/Users/cagritumer/Projects/downloader/downloader/bin/Debug/net6.0/downloader.deps.json
+/Users/cagritumer/Projects/downloader/downloader/bin/Debug/net6.0/downloader.runtimeconfig.json
+/Users/cagritumer/Projects/downloader/downloader/bin/Debug/net6.0/downloader.dll
+/Users/cagritumer/Projects/downloader/downloader/bin/Debug/net6.0/downloader.pdb
+/Users/cagritumer/Projects/downloader/downloader/bin/Debug/net6.0/RestSharp.dll
+/Users/cagritumer/Projects/downloader/downloader/obj/Debug/net6.0/downloader.csproj.CopyComplete
+/Users/cagritumer/Projects/downloader/downloader/obj/Debug/net6.0/downloader.dll
+/Users/cagritumer/Projects/downloader/downloader/obj/Debug/net6.0/refint/downloader.dll
+/Users/cagritumer/Projects/downloader/downloader/obj/Debug/net6.0/downloader.pdb
+/Users/cagritumer/Projects/downloader/downloader/obj/Debug/net6.0/downloader.genruntimeconfig.cache
+/Users/cagritumer/Projects/downloader/downloader/obj/Debug/net6.0/ref/downloader.dll
